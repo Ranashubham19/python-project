@@ -1,0 +1,63 @@
+
+Enter amount:
+500
+enter the name of currency you want to convert this amount to? Available Options:
+
+Argentine Peso
+Australian Dollar
+Bahraini Dinar
+Botswana Pula
+Brazilian Real
+British Pound
+Bruneian Dollar
+Bulgarian Lev
+Canadian Dollar
+Chilean Peso
+Chinese Yuan Renminbi
+Colombian Peso
+Croatian Kuna
+Czech Koruna
+Danish Krone
+Emirati Dirham
+Euro
+Hong Kong Dollar
+Hungarian Forint
+Icelandic Krona
+Indonesian Rupiah
+Iranian Rial
+Israeli Shekel
+Japanese Yen
+Kazakhstani Tenge
+Kuwaiti Dinar
+Libyan Dinar
+Malaysian Ringgit
+Mauritian Rupee
+Mexican Peso
+Nepalese Rupee
+New Zealand Dollar
+Norwegian Krone
+Omani Rial
+Pakistani Rupee
+Philippine Peso
+Polish Zloty
+Qatari Riyal
+Romanian New Leu
+Russian Ruble
+Saudi Arabian Riyal
+Singapore Dollar
+South African Rand
+South Korean Won
+Sri Lankan Rupee
+Swedish Krona
+Swiss Franc
+Taiwan New Dollar
+Thai Baht
+Trinidadian Dollar
+Turkish Lira
+US Dollar
+Venezuelan Bolivar
+Please enter one of these values: 
+US Dollar
+500 INR i`99s equal to 6.124499999999999 US Dollar
+
+Process finished with exit code 0
